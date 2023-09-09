@@ -51,9 +51,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [your-email@example.com](mailto:bglorytb@gmail.com).
+If you have any questions or suggestions, feel free to contact us at [my mail](mailto:bglorytb@gmail.com).
 
 ## Acknowledgments
 
-- Special thanks to [Other Guy]([link-to-other-guy-profile](https://github.com/D3vd)) for providing the API that makes this app possible.
+- Special thanks to [D3vd]([link-to-other-guy-profile](https://github.com/D3vd)) for providing the API that makes this app possible.
 - Thanks to the Reddit community for creating and sharing hilarious memes.
