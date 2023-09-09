@@ -2,7 +2,7 @@
 
 ## Description
 
-The Meme Generator App is a fun and easy-to-use web application that allows you to create memes using images sourced from Reddit. It leverages the [D3VD's API]([link-to-api-documentation](https://github.com/D3vd/Meme_Api)) to fetch popular memes from Reddit, and it provides a user-friendly interface for customizing and generating your own hilarious memes.
+The Meme Generator App is a fun and easy-to-use web application that allows you to create memes using images sourced from Reddit. It leverages the [D3VD's API](https://github.com/D3vd/Meme_Api) to fetch popular memes from Reddit, and it provides a user-friendly interface for customizing and generating your own hilarious memes.
 
 ## Features
 
@@ -55,5 +55,5 @@ If you have any questions or suggestions, feel free to contact us at [my mail](m
 
 ## Acknowledgments
 
-- Special thanks to [D3vd]([link-to-other-guy-profile](https://github.com/D3vd)) for providing the API that makes this app possible.
+- Special thanks to [D3vd](https://github.com/D3vd) for providing the API that makes this app possible.
 - Thanks to the Reddit community for creating and sharing hilarious memes.
