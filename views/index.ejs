@@ -1,0 +1,18 @@
+<%- include('header.ejs'); -%>
+
+<h2>MEMES AT YOUR FINGERTIPS</h2>
+<h4><%= locals.title %></h4>
+<div class="imgParent">
+    <img src="<%= locals.photo %>" alt="" srcset="">
+</div>
+
+
+<form action="" method="get">
+    <input type="submit" value="Meme" class="button" formaction="/">
+    <input type="submit" value='wholesome' class="button" formaction="/noice">
+</form>
+
+<center><a target="_blank" href="<%= locals.postLink %>">Origin</a></center><br>
+
+
+<%- include('footer.ejs'); -%>
